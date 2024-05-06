@@ -2,7 +2,7 @@
 
 
 <!-- NPM INSTALL -->
-## npm istall
+## npm install
 ```bash
 npm i
 ```
